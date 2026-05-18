@@ -6,6 +6,12 @@ I build production-style systems with Java, Spring Boot, Python, FastAPI, React,
 
 ## Featured Projects
 
+### Healthcare Claims Processing Service
+Java Spring Boot backend service for healthcare claims intake, validation, adjudication rules, metrics, and REST API workflows.
+
+### Distributed Healthcare Data Exchange
+Java Spring Boot microservice for secure healthcare event ingestion, patient identifier tokenization, audit publishing, and distributed data workflows.
+
 ### AI-Powered Enterprise Knowledge Assistant
 RAG-based full stack knowledge platform using FastAPI, LangChain, OpenAI, FAISS, React, PostgreSQL, Docker, and AWS-style service architecture.
 
