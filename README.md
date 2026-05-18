@@ -21,6 +21,14 @@ System-level processing engine using C++ with Python benchmarking support, focus
 ### Interactive Data Visualization Dashboard
 React and TypeScript dashboard for real-time data exploration, API-driven updates, and modular UI components.
 
+## Education
+
+**University of North Carolina at Charlotte**  
+Master of Science in Computer Science, Aug 2024 - Dec 2025
+
+**SRM University**  
+Bachelor of Technology in Computer Science, Jun 2019 - May 2023
+
 ## Tech Stack
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL, C++  
