@@ -29,4 +29,4 @@ React and TypeScript dashboard for real-time data exploration, API-driven update
 
 - Email: perlaakash619@gmail.com
 - Location: Seattle, WA
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/perlaakash/
