@@ -205,7 +205,7 @@ I enjoy designing applications that are not just functional, but also **scalable
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </p>
 
-**Observability:** Grafana, Splunk, ELK Stack, Application Logs, Metrics, Monitoring, Debugging
+###**Observability:** Grafana, Splunk, ELK Stack, Application Logs, Metrics, Monitoring, Debugging
 ---
 
 ## 🎓 Education
