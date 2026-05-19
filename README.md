@@ -71,7 +71,7 @@ I enjoy designing applications that are not just functional, but also **scalable
       <p>
         <b>Tech:</b> Java, Spring Boot, Kafka, PostgreSQL, Microservices
       </p>
-      <a href="https://github.com/perlaakash619/distributed-healthcare-data-exchange">
+      <a href="https://github.com/Akashperla/distributed-healthcare-data-exchange">
         <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -87,7 +87,7 @@ I enjoy designing applications that are not just functional, but also **scalable
       <p>
         <b>Tech:</b> FastAPI, LangChain, OpenAI, FAISS, React, PostgreSQL, Docker
       </p>
-      <a href="https://github.com/perlaakash619/ai-enterprise-knowledge-assistant">
+      <a href="https://github.com/Akashperla/ai-enterprise-knowledge-assistant">
         <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -100,7 +100,7 @@ I enjoy designing applications that are not just functional, but also **scalable
       <p>
         <b>Tech:</b> C++, Python, Benchmarking, Algorithms, Performance Optimization
       </p>
-      <a href="https://github.com/perlaakash619/high-performance-data-processing-engine">
+      <a href="https://github.com/Akashperla/high-performance-data-processing-engine">
         <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -116,7 +116,7 @@ I enjoy designing applications that are not just functional, but also **scalable
       <p>
         <b>Tech:</b> React, TypeScript, REST APIs, Charts, UI Components
       </p>
-      <a href="https://github.com/perlaakash619/interactive-data-visualization-dashboard">
+      <a href="https://github.com/Akashperla/interactive-data-visualization-dashboard">
         <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
