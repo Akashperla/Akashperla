@@ -140,31 +140,41 @@ I enjoy designing applications that are not just functional, but also **scalable
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,postgres,bash" />
 </p>
 
-### Backend & APIs
+**Languages:** Java, Python, C++, JavaScript, TypeScript, SQL, Bash
+
+---
+
+### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,kafka" />
 </p>
 
-**Backend:** Spring Boot, FastAPI, Node.js, REST APIs, Microservices, Kafka, gRPC, Authentication, API Design
+**Backend:** Spring Boot, FastAPI, Node.js, Express.js, REST APIs, Microservices, Kafka, gRPC, API Design, Authentication
 
-### Frontend
+---
+
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,materialui" />
 </p>
 
-**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI
+**Frontend:** React.js, Angular, HTML5, CSS3, Tailwind CSS, Material UI, Responsive UI Development
+
+---
 
 ### Databases & Data Systems
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQL Optimization, Data Modeling
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQL Query Optimization, Data Modeling
+
+---
 
 ### AI & Machine Learning
 <p>
@@ -175,16 +185,27 @@ I enjoy designing applications that are not just functional, but also **scalable
   <img src="https://img.shields.io/badge/Pinecone-111827?style=for-the-badge" />
 </p>
 
-**AI:** RAG, LangChain, OpenAI APIs, FAISS, Pinecone, Prompt Engineering, AI Workflow Automation
+**AI Tools & Frameworks:** RAG, LangChain, OpenAI APIs, FAISS, Pinecone, Prompt Engineering, AI Workflow Automation
 
-### Cloud, DevOps & Observability
+---
+
+### Cloud, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git,github" />
 </p>
 
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, CI/CD, GitHub Actions, Linux  
-**Observability:** Grafana, Splunk, ELK Stack, Logs, Metrics, Monitoring
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines, Linux, Git, GitHub
 
+---
+
+### Monitoring & Observability
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+**Observability:** Grafana, Splunk, ELK Stack, Application Logs, Metrics, Monitoring, Debugging
 ---
 
 ## 🎓 Education
