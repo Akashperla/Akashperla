@@ -1,46 +1,230 @@
-# Hi, I'm Akash Perla
+<!-- Profile README for Akash Perla -->
 
-Full Stack Engineer focused on AI-powered applications, backend systems, and distributed architecture.
+<div align="center">
 
-I build production-style systems with Java, Spring Boot, Python, FastAPI, React, LangChain, and cloud-native tooling. My work spans healthcare platforms, high-throughput backend services, RAG applications, data processing systems, and interactive dashboards.
+# Hi, I'm Akash Perla 👋
 
-## Featured Projects
+### Software Engineer | Full Stack Development | AI Applications | Backend Systems
 
-### Healthcare Claims Processing Service
-Java Spring Boot backend service for healthcare claims intake, validation, adjudication rules, metrics, and REST API workflows.
+I build production-style software systems using **Java, Spring Boot, Python, FastAPI, React, LangChain, cloud-native tooling, and distributed architecture**.
 
-### Distributed Healthcare Data Exchange
-Java Spring Boot microservice for secure healthcare event ingestion, patient identifier tokenization, audit publishing, and distributed data workflows.
+My work focuses on **AI-powered applications, healthcare platforms, backend services, RAG systems, data pipelines, and interactive dashboards**.
 
-### AI-Powered Enterprise Knowledge Assistant
-RAG-based full stack knowledge platform using FastAPI, LangChain, OpenAI, FAISS, React, PostgreSQL, Docker, and AWS-style service architecture.
+<br/>
 
-### High-Performance Data Processing Engine
-System-level processing engine using C++ with Python benchmarking support, focused on memory-aware and compute-intensive workflows.
+<a href="mailto:perlaakash619@gmail.com">
+  <img src="https://img.shields.io/badge/Email-perlaakash619%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/perlaakash/">
+  <img src="https://img.shields.io/badge/LinkedIn-Akash%20Perla-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/perlaakash619">
+  <img src="https://img.shields.io/badge/GitHub-perlaakash619-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Interactive Data Visualization Dashboard
-React and TypeScript dashboard for real-time data exploration, API-driven updates, and modular UI components.
+<br/>
+<br/>
 
-## Education
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+AI-Powered+Applications;Designing+Scalable+Backend+Systems;Cloud-Native+and+Distributed+Architecture" />
 
-**University of North Carolina at Charlotte**  
-Master of Science in Computer Science, Aug 2024 - Dec 2025
+</div>
 
-**SRM University**  
-Bachelor of Technology in Computer Science, Jun 2019 - May 2023
+---
 
-## Tech Stack
+## 🚀 About Me
 
-**Languages:** Java, Python, JavaScript, TypeScript, SQL, C++  
-**Backend:** Spring Boot, FastAPI, Node.js, REST APIs, Microservices, Kafka, gRPC  
-**AI:** RAG, LangChain, OpenAI APIs, FAISS, Pinecone, Prompt Engineering  
-**Frontend:** React, Angular, HTML, CSS  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, CI/CD  
-**Observability:** Grafana, Splunk, ELK Stack
+I am a **Software Engineer** with a strong foundation in **full stack development, backend engineering, AI-enabled applications, and cloud-native systems**.
 
-## Contact
+I enjoy designing applications that are not just functional, but also **scalable, maintainable, observable, and production-ready**. My project experience includes healthcare platforms, claims processing workflows, secure data exchange systems, RAG-based AI assistants, high-performance processing engines, and real-time dashboards.
 
-- Email: perlaakash619@gmail.com
-- Location: Seattle, WA
-- LinkedIn: https://www.linkedin.com/in/perlaakash/
+- 🔭 Currently building: **AI-powered full stack and backend systems**
+- 🧠 Interested in: **RAG, LLM applications, distributed systems, cloud architecture**
+- ⚙️ Strongest stack: **Java, Spring Boot, Python, FastAPI, React, PostgreSQL, Docker**
+- 📍 Location: **Seattle, WA**
+- 🎯 Goal: Build reliable software that creates real business and user impact
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏥 Healthcare Claims Processing Service</h3>
+      <p>
+        Java Spring Boot backend service for healthcare claims intake, validation,
+        adjudication rules, metrics, and REST API workflows.
+      </p>
+      <p>
+        <b>Tech:</b> Java, Spring Boot, REST APIs, MySQL, Docker, Metrics
+      </p>
+      <a href="https://github.com/perlaakash619/healthcare-claims-processing-service">
+        <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔐 Distributed Healthcare Data Exchange</h3>
+      <p>
+        Secure healthcare microservice for event ingestion, patient identifier
+        tokenization, audit publishing, and distributed data workflows.
+      </p>
+      <p>
+        <b>Tech:</b> Java, Spring Boot, Kafka, PostgreSQL, Microservices
+      </p>
+      <a href="https://github.com/perlaakash619/distributed-healthcare-data-exchange">
+        <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI-Powered Enterprise Knowledge Assistant</h3>
+      <p>
+        Full stack RAG platform for enterprise knowledge search, document retrieval,
+        contextual Q&A, and AI-assisted workflows.
+      </p>
+      <p>
+        <b>Tech:</b> FastAPI, LangChain, OpenAI, FAISS, React, PostgreSQL, Docker
+      </p>
+      <a href="https://github.com/perlaakash619/ai-enterprise-knowledge-assistant">
+        <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>⚡ High-Performance Data Processing Engine</h3>
+      <p>
+        System-level processing engine focused on memory-aware, compute-intensive,
+        and benchmark-driven data workflows.
+      </p>
+      <p>
+        <b>Tech:</b> C++, Python, Benchmarking, Algorithms, Performance Optimization
+      </p>
+      <a href="https://github.com/perlaakash619/high-performance-data-processing-engine">
+        <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>📊 Interactive Data Visualization Dashboard</h3>
+      <p>
+        React and TypeScript dashboard for real-time data exploration, API-driven
+        updates, charts, and modular UI components.
+      </p>
+      <p>
+        <b>Tech:</b> React, TypeScript, REST APIs, Charts, UI Components
+      </p>
+      <a href="https://github.com/perlaakash619/interactive-data-visualization-dashboard">
+        <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌐 Full Stack Engineering Portfolio</h3>
+      <p>
+        Collection of backend, frontend, AI, and cloud-native projects showcasing
+        scalable application design and engineering fundamentals.
+      </p>
+      <p>
+        <b>Focus:</b> APIs, AI Apps, Databases, Cloud, System Design
+      </p>
+      <a href="https://github.com/perlaakash619">
+        <img src="https://img.shields.io/badge/Explore_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql,bash" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,kafka" />
+</p>
+
+**Backend:** Spring Boot, FastAPI, Node.js, REST APIs, Microservices, Kafka, gRPC, Authentication, API Design
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,materialui" />
+</p>
+
+**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI
+
+### Databases & Data Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQL Optimization, Data Modeling
+
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-111827?style=for-the-badge" />
+</p>
+
+**AI:** RAG, LangChain, OpenAI APIs, FAISS, Pinecone, Prompt Engineering, AI Workflow Automation
+
+### Cloud, DevOps & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux" />
+</p>
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, CI/CD, GitHub Actions, Linux  
+**Observability:** Grafana, Splunk, ELK Stack, Logs, Metrics, Monitoring
+
+---
+
+## 🎓 Education
+
+### University of North Carolina at Charlotte  
+**Master of Science in Computer Science**  
+Aug 2024 – Dec 2025
+
+### SRM University  
+**Bachelor of Technology in Computer Science**  
+Jun 2019 – May 2023
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=perlaakash619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perlaakash619&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=perlaakash619&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Engineering Areas I Focus On
+
+```txt
+Backend Engineering        ████████████████████
+Full Stack Development     ███████████████████
+AI Applications / RAG      ██████████████████
+Cloud & DevOps             ████████████████
+Database Systems           ████████████████
+Distributed Systems        ███████████████
