@@ -120,19 +120,6 @@ I enjoy designing applications that are not just functional, but also **scalable
         <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%">
-      <h3>🌐 Full Stack Engineering Portfolio</h3>
-      <p>
-        Collection of backend, frontend, AI, and cloud-native projects showcasing
-        scalable application design and engineering fundamentals.
-      </p>
-      <p>
-        <b>Focus:</b> APIs, AI Apps, Databases, Cloud, System Design
-      </p>
-      <a href="https://github.com/perlaakash619">
-        <img src="https://img.shields.io/badge/Explore_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
   </tr>
 </table>
 
