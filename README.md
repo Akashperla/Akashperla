@@ -197,17 +197,17 @@ I enjoy designing applications that are not just functional, but also **scalable
 **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines, Linux, Git, GitHub
 
 ---
-
 ### Monitoring & Observability
+
 <p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white" />
 </p>
 
 **Observability:** Grafana, Splunk, ELK Stack, Application Logs, Metrics, Monitoring, Debugging
----
 
+---
 ## 🎓 Education
 
 ### University of North Carolina at Charlotte  
