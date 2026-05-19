@@ -58,7 +58,7 @@ I enjoy designing applications that are not just functional, but also **scalable
       <p>
         <b>Tech:</b> Java, Spring Boot, REST APIs, MySQL, Docker, Metrics
       </p>
-      <a href="https://github.com/perlaakash619/healthcare-claims-processing-service">
+      <a href="[https://github.com/perlaakash619/healthcare-claims-processing-service](https://github.com/Akashperla/healthcare-claims-processing-service)">
         <img src="https://img.shields.io/badge/View_Project-0f172a?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
