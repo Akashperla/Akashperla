@@ -40,7 +40,6 @@ I enjoy designing applications that are not just functional, but also **scalable
 - 🔭 Currently building: **AI-powered full stack and backend systems**
 - 🧠 Interested in: **RAG, LLM applications, distributed systems, cloud architecture**
 - ⚙️ Strongest stack: **Java, Spring Boot, Python, FastAPI, React, PostgreSQL, Docker**
-- 📍 Location: **Seattle, WA**
 - 🎯 Goal: Build reliable software that creates real business and user impact
 
 ---
