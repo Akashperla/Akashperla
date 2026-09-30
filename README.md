@@ -192,16 +192,3 @@ I enjoy designing applications that are not just functional, but also **scalable
 </p>
 
 **Observability:** Grafana, Splunk, ELK Stack, Application Logs, Metrics, Monitoring, Debugging
-
----
-## 🎓 Education
-
-### University of North Carolina at Charlotte  
-**Master of Science in Computer Science**  
-Aug 2024 – Dec 2025
-
-### SRM University  
-**Bachelor of Technology in Computer Science**  
-Jun 2019 – May 2023
-
----
